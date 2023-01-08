@@ -1,0 +1,46 @@
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.semibold {
+    font-weight: bolder;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.ra {
+    border: 2px solid red;
+
+}
+
+.ka {
+    border: 2px solid red;
+}
+
+.mx-2 {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.rightBox {
+    display: flex;
+    margin: 12px;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
